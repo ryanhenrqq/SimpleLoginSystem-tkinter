@@ -1,7 +1,4 @@
-import platform
 import webbrowser
-from time import sleep
-from datetime import *
 import win32ui
 from PIL import ImageTk
 from tkinter import *
